@@ -1,0 +1,1 @@
+(()=>{"use strict";(new class{createCollapse(){const e=document.querySelector(".btn"),s=document.querySelector(".border-text");e.addEventListener("click",(e=>{e.preventDefault(),s.classList.contains("show")?s.classList.remove("show"):s.classList.add("show")}))}}).createCollapse()})();
